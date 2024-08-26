@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.heading {
+  font-family: 'Roboto';
+  color: #551e53;
+  font-weight: 800;
+  font-size: 32px;
+}
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+.logo {
+  width: 220px;
+}
+.description{
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #555555;
+}

@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+}
+.nav-link {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: #12022f;
+  padding-right: 8px;
+  margin-left: 10px;
+  font-weight: 800;
+}
+.wave-heading {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #12022f;
+  margin-left: 5px;
+}
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+}
+.wave-logo {
+  width: 50px;
+}
+.wave-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
